@@ -1,6 +1,6 @@
 # Poema
 
-Roses are red,
-Violets are blue.
+Red pills are red,
+Blue pills are blue.
 All of my base
 are belong to you.
